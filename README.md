@@ -57,7 +57,7 @@
   AJAX / 在庫管理機能　/　会員カート機能　/　非会員カート機能　/　非会員注文機能　 <br><br>
 
 ## プロジェクト説明
-※[プロジェクトの詳しい説明と過程につきましてはこちらより](https://zenn.dev/eldorado215) <br>
+※[プロジェクトの詳しい説明と過程につきましてはこちらより](https://zenn.dev/eldorado215/articles/7d73cc24b656ec) <br>
 ※[プロジェクト会議録](https://docs.google.com/spreadsheets/d/1vFpm3TK00l0waAvyiHfqa7ZDZ3zkNslgRtaVEF32sIs/edit#gid=574516391) <br><br>
 ページの日本語はGoogle翻訳を使って臨時的に翻訳しております。
 
